@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "key": "Language",
+      "value": "Language"
+    },
+    {
+      "key": "Resolution",
+      "value": "Screen resolution"
+    },
+    {
+      "key": "Fullscreen",
+      "value": "Fullscreen"
+    },
+    {
+      "key": "On",
+      "value": "On"
+    },
+    {
+      "key": "Off",
+      "value": "Off"
+    },
+    {
+      "key": "Sounds",
+      "value": "Sounds"
+    },
+    {
+      "key": "Musics",
+      "value": "Musics"
+    },
+    {
+      "key": "Back",
+      "value": "Back"
+    }
+  ]
+}

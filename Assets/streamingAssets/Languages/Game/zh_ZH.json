@@ -1,0 +1,72 @@
+﻿{
+  "items": [
+    {
+      "key": "CountOfEvidence",
+      "value": "还剩的故事卡"
+    },
+    {
+      "key": "CountOfHint",
+      "value": "还剩的提示卡"
+    },
+    {
+      "key": "HintQuestion",
+      "value": "看提示吗？"
+    },
+    {
+      "key": "NegativeResult",
+      "value": "越弄越糟"
+    },
+    {
+      "key": "PositiveResult",
+      "value": "成功地改变了过去"
+    },
+    {
+      "key": "NeitralResult",
+      "value": "什么都没改变"
+    },
+    {
+      "key": "VeryBadEnd",
+      "value": "糟糕了，你把事情搞坏了，使死亡更加不可避免。"
+    },
+    {
+      "key": "BadEnd",
+      "value": "你走对的路，但你不能欺骗命运。"
+    },
+    {
+      "key": "NoChangeEnd",
+      "value": "你接近成功，但命运是必然的。"
+    },
+    {
+      "key": "NormalEnd",
+      "value": "恭喜！ 你真的成功地改变了过去！"
+    },
+    {
+      "key": "GoodEnd",
+      "value": "你弄清楚故事，而轻松地防止死亡。"
+    },
+    {
+      "key": "VeryGoodEnd",
+      "value": "这简直是不可思议的！ 你不仅征服了命运，避免了死亡，也使生活更美好。"
+    },
+    {
+      "key": "CantReadStory",
+      "value": "为了看故事你需要更多分"
+    },
+    {
+      "key": "ReadStory",
+      "value": "看故事"
+    },
+    {
+      "key": "PlayAgain",
+      "value": "再玩一次"
+    },
+    {
+      "key": "ReadImportantDecisions",
+      "value": "看重要决定"
+    },
+    {
+      "key": "Menu",
+      "value": "菜单"
+    }
+  ]
+}

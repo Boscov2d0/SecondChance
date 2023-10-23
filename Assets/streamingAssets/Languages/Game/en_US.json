@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "key": "CountOfEvidence",
+      "value": "Story cards left"
+    },
+    {
+      "key": "CountOfHint",
+      "value": "Hints left"
+    },
+    {
+      "key": "HintQuestion",
+      "value": "Use a hint?"
+    },
+    {
+      "key": "NegativeResult",
+      "value": "You only made it worse"
+    },
+    {
+      "key": "PositiveResult",
+      "value": "Managed to change the past for the better"
+    },
+    {
+      "key": "NeitralResult",
+      "value": "Nothing has changed"
+    },
+    {
+      "key": "VeryBadEnd",
+      "value": "Oh no, you've ruined everything and made death even more inevitable."
+    },
+    {
+      "key": "BadEnd",
+      "value": "You went the right way, but you couldn't cheat fate."
+    },
+    {
+      "key": "NoChangeEnd",
+      "value": "You were close to success, but fate is inexorable."
+    },
+    {
+      "key": "NormalEnd",
+      "value": "Congratulations! You really managed to change the past!"
+    },
+    {
+      "key": "GoodEnd",
+      "value": "You unraveled the story and easily prevented death."
+    },
+    {
+      "key": "VeryGoodEnd",
+      "value": "Incredible! You not only conquered fate and averted death, but also made life better."
+    },
+    {
+      "key": "CantReadStory",
+      "value": "Score more points to read the full story"
+    },
+    {
+      "key": "ReadStory",
+      "value": "Read full story"
+    },
+    {
+      "key": "PlayAgain",
+      "value": "Play again"
+    },
+    {
+      "key": "ReadImportantDecisions",
+      "value": "Read important decisions"
+    },
+    {
+      "key": "Menu",
+      "value": "Menu"
+    }
+  ]
+}

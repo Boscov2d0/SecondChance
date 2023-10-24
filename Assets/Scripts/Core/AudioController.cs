@@ -25,6 +25,10 @@ namespace SecondChanse.Core
                     _music.clip = _audioManager.CherryBlossomFestivalMusic;
                     _audioManager.CherryBlossomFestivalAudioSource = _music;
                     break;
+                case Story.BloodInTheGutter:
+                    _music.clip = _audioManager.BloodInTheGutterMusic;
+                    _audioManager.BloodInTheGutterAudioSource = _music;
+                    break;
             }
 
             _music.Play();

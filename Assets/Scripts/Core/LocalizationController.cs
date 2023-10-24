@@ -24,6 +24,7 @@ namespace SecondChanse.Core
             _localizationManager.Language.SubscribeOnChange(LoadGameText);
             _localizationManager.Language.SubscribeOnChange(LoadRulesText);
             _localizationManager.Language.SubscribeOnChange(LoadCherryBlossomFestivalText);
+            _localizationManager.Language.SubscribeOnChange(LoadBloodInTheGutterText);
 
             SetLanguage();
         }
@@ -35,6 +36,7 @@ namespace SecondChanse.Core
             _localizationManager.Language.UnSubscribeOnChange(LoadGameText);
             _localizationManager.Language.UnSubscribeOnChange(LoadRulesText);
             _localizationManager.Language.UnSubscribeOnChange(LoadCherryBlossomFestivalText);
+            _localizationManager.Language.UnSubscribeOnChange(LoadBloodInTheGutterText);
         }
         private void SetLanguage()
         {
@@ -65,6 +67,7 @@ namespace SecondChanse.Core
             LoadGameText();
             LoadRulesText();
             LoadCherryBlossomFestivalText();
+            LoadBloodInTheGutterText();
         }
         private void LoadMenuText()
         {
@@ -95,6 +98,11 @@ namespace SecondChanse.Core
         {
             _localizationManager.CherryBlossomFestivalText = new Dictionary<string, string>();
             LoadLocalizedText(_localizationManager.CherryBlossomFestivalText, _localizationManager.CherryBlossomFestivalTextsPath);
+        }
+        public void LoadBloodInTheGutterText()
+        {
+            _localizationManager.BloodInTheGutterText = new Dictionary<string, string>();
+            LoadLocalizedText(_localizationManager.BloodInTheGutterText, _localizationManager.BloodInTheGutterTextsPath);
         }
         public void LoadLocalizedText(Dictionary<string, string> text, string path)
         {

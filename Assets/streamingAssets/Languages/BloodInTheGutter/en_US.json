@@ -1,0 +1,507 @@
+{
+  "items": [
+    {
+      "key": "TimeCard1",
+      "value": "20 years ago"
+    },
+    {
+      "key": "PlaceCard1",
+      "value": "Poitiers,\nFrance"
+    },
+    {
+      "key": "DateCard1",
+      "value": "February 11, 1909\nlate evening"
+    },
+    {
+      "key": "OpenCard1",
+      "value": "20 years ago\nPoitiers,\nFrance\nFebruary 11, 1909\nlate evening\n\nA young woman, sobbing, embraces her children. The girl is crying, and the boy is looking at the floor. Suddenly, the mother opens her arms and looks at her son sternly. \"You're the man in the HOUSE now. Take responsibility and achieve something in life. Don't die like your father.\""
+    },
+    {
+      "key": "TimeCard2",
+      "value": "17 years ago"
+    },
+    {
+      "key": "PlaceCard2",
+      "value": "Poitiers,\nFrance"
+    },
+    {
+      "key": "DateCard2",
+      "value": "June 15, 1912\nevening"
+    },
+    {
+      "key": "OpenCard2",
+      "value": "17 years ago\nPoitiers,\nFrance\nJune 15, 1912\nevening\n\nBoys play soccer on the outskirts of the city. The older BOY stands on the edge and pushes the younger one. \"Hey, Jacques, wake up! You'll never be a musician. You'll fall off the roof like your father Henri. You'd better come with us at night and be on the lookout.\""
+    },
+    {
+      "key": "TimeCard3",
+      "value": "14 лет назад"
+    },
+    {
+      "key": "PlaceCard3",
+      "value": "La Rochelle,\nFrance"
+    },
+    {
+      "key": "DateCard3",
+      "value": "May 12, 1915\nmorning"
+    },
+    {
+      "key": "OpenCard3",
+      "value": "14 years ago\nLa Rochelle,\nFrance\nMay 12, 1915\nmorning\n\nAt the port, a teenager stands next to his sister, pointing at a huge CARGO SHIP. \"We need to sneak in there. Can you handle it?\" The pale girl holds on tightly to her brother. \"Don't worry,\" she whispers, \"Mom is watching us from heaven and will help us find a safe place.\""
+    },
+    {
+      "key": "TimeCard4",
+      "value": "12 years ago"
+    },
+    {
+      "key": "PlaceCard4",
+      "value": "New York,\nUSA"
+    },
+    {
+      "key": "DateCard4",
+      "value": "September 23, 1917\nin the evening\nin the room"
+    },
+    {
+      "key": "OpenCard4",
+      "value": "12 years ago\nNew York,\nUSA\nSeptember 23, 1917\nin the evening\nin the room\n\nThe teenager takes the pale girl by the hand and insistently says to her: \"Marie, this can't go on. This air makes you feel worse and worse. They say they pay well in Chicago.\" She looks at him with compassion. \"But you like working here. People on the streets are already coming to listen to you.\" There's an old PHOTOGRAPH on the sideboard next to it."
+    },
+    {
+      "key": "TimeCard5",
+      "value": "2 weeks ago"
+    },
+    {
+      "key": "PlaceCard5",
+      "value": "The outskirts of Chicago,\nUSA"
+    },
+    {
+      "key": "DateCard5",
+      "value": "October 12, 1929\n10:03"
+    },
+    {
+      "key": "OpenCard5",
+      "value": "2 weeks ago\nThe outskirts of Chicago,\nUSA\nOctober 12, 1929\n10:03\n\nA three-year-old CHILD is lying in a crib and coughing violently. His mother is standing in the doorway, talking to a young man.\n\"You've done so much for me. And then at home, and when Henry's father went missing. I can handle it myself.\" He shakes his head. \"Marie, it's okay. I'll get the money. Don't worry. He'll be fine soon.\" The child gives him a teddy bear and says, \"It will bring you good luck.\""
+    },
+    {
+      "key": "TimeCard6",
+      "value": "5 days ago"
+    },
+    {
+      "key": "PlaceCard6",
+      "value": "Chicago,\nUSA"
+    },
+    {
+      "key": "DateCard6",
+      "value": "October 21, 1929\n05:17"
+    },
+    {
+      "key": "OpenCard6",
+      "value": "5 days ago\nChicago,\nUSA\nOctober 21, 1929\n05:17\n\nA young man in a tailcoat and two other men are standing in a luxurious office. They are excited and tense. A small, plump MAN sits at a massive table and stares at them sternly. \"You didn't even complete this simple task? What am I going to do with you?\" He lights a cigarette. \"And you,\" he points to the young man, \" keep in mind that the money needs to be returned tomorrow... with interest, as always.\""
+    },
+    {
+      "key": "TimeCard7",
+      "value": "3 days ago"
+    },
+    {
+      "key": "PlaceCard7",
+      "value": "Chicago,\nUSA"
+    },
+    {
+      "key": "DateCard7",
+      "value": "October 23, 1929\n11:52"
+    },
+    {
+      "key": "OpenCard7",
+      "value": "3 days ago\nChicago,\nUSA\nOctober 23, 1929\n11:52\n\n\"It's a sure thing, Jacques. I'll invest your money, and it'll double in a few days. You'll pay off your debts!\" The man with the briefcase winks at the other man and glances at the ENVELOPE in his hands. \"Are you sure there's no risk?\" asks Jacques. The man smiles and nods. \"Not a drop!\""
+    },
+    {
+      "key": "TimeCard8",
+      "value": "2 days ago"
+    },
+    {
+      "key": "PlaceCard8",
+      "value": "Chicago,\nUSA"
+    },
+    {
+      "key": "DateCard8",
+      "value": "October 24, 1929\n20:38"
+    },
+    {
+      "key": "OpenCard8",
+      "value": "2 days ago\nChicago,\nUSA\nOctober 24, 1929\n20:38\n\n\"At least I respect you, BILL,\" says the little chubby man, wiping the blood off the paper knife. \"The trumpeter is leading us by the nose. Give me my money back or give him a good lesson. Let this be a lesson to everyone.\" He looks at Bill's fresh wound. \"You'll lose your eye next time.\""
+    },
+    {
+      "key": "TimeCard9",
+      "value": "1 days ago"
+    },
+    {
+      "key": "PlaceCard9",
+      "value": "The outskirts of Chicago,\nUSA"
+    },
+    {
+      "key": "DateCard9",
+      "value": "October 26, 1929\n17:18"
+    },
+    {
+      "key": "OpenCard9",
+      "value": "1 days ago\nThe outskirts of Chicago,\nUSA\nOctober 26, 1929\n17:18\n\n\"What did you do?!\" The young woman looks at the interlocutor and does not believe her eyes. \"Do you want me to die?\" HER eyes fill with tears. The young man hugs her and responds: \"I thought it was a good idea. You need money for Henry.\" He listens for a sound from the next ROOM."
+    },
+    {
+      "key": "TimeCard10",
+      "value": "2 hours ago"
+    },
+    {
+      "key": "PlaceCard10",
+      "value": "Chicago,\nUSA"
+    },
+    {
+      "key": "DateCard10",
+      "value": "October 26, 1929\n19:30"
+    },
+    {
+      "key": "OpenCard10",
+      "value": "2 hours ago\nChicago,\nUSA\nOctober 26, 1929\n19:30\n\nA young man looks in the mirror to make sure that his clothes are clean. His tailcoat is worn, his shoes are worn, but he is pleased with his appearance. He is startled by a knock on the DOOR, but calms down when he hears the voice of a member of the group."
+    },
+    {
+      "key": "TimeCard11",
+      "value": "7 minutes ago"
+    },
+    {
+      "key": "PlaceCard11",
+      "value": "Chicago,\nUSA"
+    },
+    {
+      "key": "DateCard11",
+      "value": "October 26, 1929\n21:25"
+    },
+    {
+      "key": "OpenCard11",
+      "value": "7 minutes ago\nChicago,\nUSA\nOctober 26, 1929\n21:25\n\nTwo burly men stand in front of the Blue Mill Bar. The taller one looks at his accomplice and asks: \"What's the plan, BILL?\""
+    },
+    {
+      "key": "TimeCard12",
+      "value": "The moment of death"
+    },
+    {
+      "key": "PlaceCard12",
+      "value": "Chicago,\nUSA"
+    },
+    {
+      "key": "DateCard12",
+      "value": "October 26, 1929\n21:32"
+    },
+    {
+      "key": "OpenCard12",
+      "value": "The moment of death\nChicago,\nUSA\nOctober 26, 1929\n21:32\n\nA man in his twenties lies lifeless on the cobblestones in a dirty blind alley. There are bullet holes in his blood-soaked shirt. His left hand clutches at his tie, as if he's trying to loosen it as life drains away. In his right hand is a teddy bear.\nThe blue neon sign of a nearby BAR flashes, making the blind alley look even darker."
+    },
+    {
+      "key": "TimeCard13",
+      "value": "2 years later"
+    },
+    {
+      "key": "PlaceCard13",
+      "value": "New York,\nUSA"
+    },
+    {
+      "key": "DateCard13",
+      "value": "October 24, 1931\n18:21"
+    },
+    {
+      "key": "OpenCard13",
+      "value": "2 years later\nNew York,\nUSA\nOctober 24, 1931\n18:21\n\nA young woman in her early twenties, dressed in black, walks past a newsstand. She is carrying a five-year-old child who has already become too heavy for her. She stops abruptly, takes a couple of steps back, and looks at the front page of the evening paper. \"That pig sent assassins to Jacques for 200$,\" she whispers, and looks at the PICTURE with hatred. Consumed by grief, she continues to walk towards the port."
+    },
+
+
+
+    {
+      "key": "StoryCard1",
+      "value": "20 years ago\nPoitiers,\nFrance\nFebruary 11, 1909\nlate evening\n\nA young woman, sobbing, embraces her children. The girl is crying, and the boy is looking at the floor. Suddenly, the mother opens her arms and looks at her son sternly. \"You're the man in the HOUSE now. Take responsibility and achieve something in life. Don't die like your father.\""
+    },
+    {
+      "key": "QuestionCard1",
+      "value": "You make sure that the boy:"
+    },
+    {
+      "key": "AnswerACard1",
+      "value": "a) Hugs his sister"
+    },
+    {
+      "key": "AnswerBCard1",
+      "value": "b) Nods to his mother"
+    },
+    {
+      "key": "AnswerCCard1",
+      "value": "c) Gets angry, runs out of the room"
+    },
+    {
+      "key": "HintCard1",
+      "value": "It's a small, squalid day laborer's hut. The draught is terrible."
+    },
+    {
+      "key": "StoryCard2",
+      "value": "17 years ago\nPoitiers,\nFrance\nJune 15, 1912\nevening\n\nBoys play soccer on the outskirts of the city. The older BOY stands on the edge and pushes the younger one. \"Hey, Jacques, wake up! You'll never be a musician. You'll fall off the roof like your father Henri. You'd better come with us at night and be on the lookout.\""
+    },
+    {
+      "key": "QuestionCard2",
+      "value": "You make sure that Jacques:"
+    },
+    {
+      "key": "AnswerACard2",
+      "value": "a) Attacks the older boy"
+    },
+    {
+      "key": "AnswerBCard2",
+      "value": "b) Comes to be on the lookout"
+    },
+    {
+      "key": "AnswerCCard2",
+      "value": "c) Joins the game"
+    },
+    {
+      "key": "HintCard2",
+      "value": "He maybe taller, but he doesn't look any stronger than the younger boy."
+    },
+    {
+      "key": "StoryCard3",
+      "value": "14 years ago\nLa Rochelle,\nFrance\nMay 12, 1915\nmorning\n\nAt the port, a teenager stands next to his sister, pointing at a huge CARGO SHIP. \"We need to sneak in there. Can you handle it?\" The pale girl holds on tightly to her brother. \"Don't worry,\" she whispers, \"Mom is watching us from heaven and will help us find a safe place.\""
+    },
+    {
+      "key": "QuestionCard3",
+      "value": "You make sure that:"
+    },
+    {
+      "key": "AnswerACard3",
+      "value": "a) The boy says, \"Stay with your aunt. I'll go alone, and then you'll join me.\""
+    },
+    {
+      "key": "AnswerBCard3",
+      "value": "b) The sailor hides them on board"
+    },
+    {
+      "key": "AnswerCCard3",
+      "value": "c) The docker drives them away"
+    },
+    {
+      "key": "HintCard3",
+      "value": "The ship sails to New York. The sea is surprisingly rough for this time of year."
+    },
+    {
+      "key": "StoryCard4",
+      "value": "12 years ago\nNew York,\nUSA\nSeptember 23, 1917\nin the evening\nin the room\n\nThe teenager takes the pale girl by the hand and insistently says to her: \"Marie, this can't go on. This air makes you feel worse and worse. They say they pay well in Chicago.\" She looks at him with compassion. \"But you like working here. People on the streets are already coming to listen to you.\" There's an old PHOTOGRAPH on the sideboard next to it."
+    },
+    {
+      "key": "QuestionCard4",
+      "value": "You make sure that:"
+    },
+    {
+      "key": "AnswerACard4",
+      "value": "a) They decide to wait a little"
+    },
+    {
+      "key": "AnswerBCard4",
+      "value": "b) The girl persuades him to stay and follow his dream"
+    },
+    {
+      "key": "AnswerCCard4",
+      "value": "c) They decide to move together"
+    },
+    {
+      "key": "HintCard4",
+      "value": "It depicts Poitiers, a city in western France. In the foreground, a married couple with a son and a young daughter can be seen."
+    },
+    {
+      "key": "StoryCard5",
+      "value": "2 weeks ago\nThe outskirts of Chicago,\nUSA\nOctober 12, 1929\n10:03\n\nA three-year-old CHILD is lying in a crib and coughing violently. His mother is standing in the doorway, talking to a young man.\n\"You've done so much for me. And then at home, and when Henry's father went missing. I can handle it myself.\" He shakes his head. \"Marie, it's okay. I'll get the money. Don't worry. He'll be fine soon.\" The child gives him a teddy bear and says, \"It will bring you good luck.\""
+    },
+    {
+      "key": "QuestionCard5",
+      "value": "You make sure that:"
+    },
+    {
+      "key": "AnswerACard5",
+      "value": "a) She decides to do everything herself"
+    },
+    {
+      "key": "AnswerBCard5",
+      "value": "b) He decides to make money on alcohol smuggling"
+    },
+    {
+      "key": "AnswerCCard5",
+      "value": "c) He takes the bear and goes to the bar"
+    },
+    {
+      "key": "HintCard5",
+      "value": "The doctor would have diagnosed whooping cough. The treatment will cost a lot."
+    },
+    {
+      "key": "StoryCard6",
+      "value": "5 days ago\nChicago,\nUSA\nOctober 21, 1929\n05:17\n\nA young man in a tailcoat and two other men are standing in a luxurious office. They are excited and tense. A small, plump MAN sits at a massive table and stares at them sternly. \"You didn't even complete this simple task? What am I going to do with you?\" He lights a cigarette. \"And you,\" he points to the young man, \" keep in mind that the money needs to be returned tomorrow... with interest, as always.\""
+    },
+    {
+      "key": "QuestionCard6",
+      "value": "You make sure that the young man:"
+    },
+    {
+      "key": "AnswerACard6",
+      "value": "a) Laughs in the short man's face"
+    },
+    {
+      "key": "AnswerBCard6",
+      "value": "b) Nods softly"
+    },
+    {
+      "key": "AnswerCCard6",
+      "value": "c) Requests a delay of a few days"
+    },
+    {
+      "key": "HintCard6",
+      "value": "This man - Alfonso Gabriel Capone is a brutal leader of the Chicago mafia."
+    },
+    {
+      "key": "StoryCard7",
+      "value": "3 days ago\nChicago,\nUSA\nOctober 23, 1929\n11:52\n\n\"It's a sure thing, Jacques. I'll invest your money, and it'll double in a few days. You'll pay off your debts!\" The man with the briefcase winks at the other man and glances at the ENVELOPE in his hands. \"Are you sure there's no risk?\" asks Jacques. The man smiles and nods. \"Not a drop!\""
+    },
+    {
+      "key": "QuestionCard7",
+      "value": "You make sure that Jacques:"
+    },
+    {
+      "key": "AnswerACard7",
+      "value": "a) Passes the envelope and all his money"
+    },
+    {
+      "key": "AnswerBCard7",
+      "value": "b) Passes the envelope"
+    },
+    {
+      "key": "AnswerCCard7",
+      "value": "c) Rejects the offer and gives nothing away"
+    },
+    {
+      "key": "HintCard7",
+      "value": "The envelope is marked \"A. G. K.\". It contains$ 200 in brand-new ten-dollar bills."
+    },
+    {
+      "key": "StoryCard8",
+      "value": "2 days ago\nChicago,\nUSA\nOctober 24, 1929\n20:38\n\n\"At least I respect you, BILL,\" says the little chubby man, wiping the blood off the paper knife. \"The trumpeter is leading us by the nose. Give me my money back or give him a good lesson. Let this be a lesson to everyone.\" He looks at Bill's fresh wound. \"You'll lose your eye next time.\""
+    },
+    {
+      "key": "QuestionCard8",
+      "value": "You make sure that Bill responds:"
+    },
+    {
+      "key": "AnswerACard8",
+      "value": "a) \"Of course, boss. I can handle it.\""
+    },
+    {
+      "key": "AnswerBCard8",
+      "value": "b) \"I'm leaving, boss. I won't do it.\""
+    },
+    {
+      "key": "AnswerCCard8",
+      "value": "c) \"Boss, I'm sure he'll get the money next month.\""
+    },
+    {
+      "key": "HintCard8",
+      "value": "Bill wipes the blood from his cheek with a handkerchief. He is Al Capone's most loyal and persistent henchman."
+    },
+    {
+      "key": "StoryCard9",
+      "value": "1 days ago\nThe outskirts of Chicago,\nUSA\nOctober 26, 1929\n17:18\n\n\"What did you do?!\" The young woman looks at the interlocutor and does not believe her eyes. \"Do you want me to die?\" HER eyes fill with tears. The young man hugs her and responds: \"I thought it was a good idea. You need money for Henry.\" He listens for a sound from the next ROOM."
+    },
+    {
+      "key": "QuestionCard9",
+      "value": "You make sure that the young woman:"
+    },
+    {
+      "key": "AnswerACard9",
+      "value": "a) Clearly says that he should go to a meeting in the city right now"
+    },
+    {
+      "key": "AnswerBCard9",
+      "value": "b) Goes to the next room"
+    },
+    {
+      "key": "AnswerCCard9",
+      "value": "c) Takes her coat and goes to a meeting in the city"
+    },
+    {
+      "key": "HintCard9",
+      "value": "A child plays with cubes. His incessant coughing is clearly audible through the door."
+    },
+    {
+      "key": "StoryCard10",
+      "value": "2 hours ago\nChicago,\nUSA\nOctober 26, 1929\n19:30\n\nA young man looks in the mirror to make sure that his clothes are clean. His tailcoat is worn, his shoes are worn, but he is pleased with his appearance. He is startled by a knock on the DOOR, but calms down when he hears the voice of a member of the group."
+    },
+    {
+      "key": "QuestionCard10",
+      "value": "You make sure that the man:"
+    },
+    {
+      "key": "AnswerACard10",
+      "value": "a) Opens the door and happily offers: \"Let's switch instruments today.\""
+    },
+    {
+      "key": "AnswerBCard10",
+      "value": "b) Shouts: \"Wait a minute!\""
+    },
+    {
+      "key": "AnswerCCard10",
+      "value": "c) Opens the door and says wearily: \"I'm not going to play. I feel bad.\""
+    },
+    {
+      "key": "HintCard10",
+      "value": "The pipe he has prepared is next to the door. But the man in the tailcoat is also good at playing other instruments."
+    },
+    {
+      "key": "StoryCard11",
+      "value": "7 minutes ago\nChicago,\nUSA\nOctober 26, 1929\n21:25\n\nTwo burly men stand in front of the Blue Mill Bar. The taller one looks at his accomplice and asks: \"What's the plan, BILL?\""
+    },
+    {
+      "key": "QuestionCard11",
+      "value": "You make sure that Bill responds:"
+    },
+    {
+      "key": "AnswerACard11",
+      "value": "a) \"As usual: I'll take the main entrance, and you go to the back.\""
+    },
+    {
+      "key": "AnswerBCard11",
+      "value": "b) \"I'll go inside. And you stay on the lookout.\""
+    },
+    {
+      "key": "AnswerCCard11",
+      "value": "c) \"Let's go through the back entrance. Hold on to me.\""
+    },
+    {
+      "key": "HintCard11",
+      "value": "There's a fresh cut on Bill's cheek. So the boss warned him against making more mistakes."
+    },
+    {
+      "key": "StoryCard12",
+      "value": "The moment of death\nChicago,\nUSA\nOctober 26, 1929\n21:32\n\nA man in his twenties lies lifeless on the cobblestones in a dirty blind alley. There are bullet holes in his blood-soaked shirt. His left hand clutches at his tie, as if he's trying to loosen it as life drains away. In his right hand is a teddy bear.\nThe blue neon sign of a nearby BAR flashes, making the blind alley look even darker."
+    },
+    {
+      "key": "HintCard12",
+      "value": "Loud jazz sounds come from the entrance to the bar. The group ignores all the solos on the trumpet."
+    },
+    {
+      "key": "StoryCard13",
+      "value": "2 years later\nNew York,\nUSA\nOctober 24, 1931\n18:21\n\nA young woman in her early twenties, dressed in black, walks past a newsstand. She is carrying a five-year-old child who has already become too heavy for her. She stops abruptly, takes a couple of steps back, and looks at the front page of the evening paper. \"That pig sent assassins to Jacques for 200$,\" she whispers, and looks at the PICTURE with hatred. Consumed by grief, she continues to walk towards the port."
+    },
+    {
+      "key": "QuestionCard13",
+      "value": "Since these events take place after the death of the deceased, your actions here, unfortunately, will not change anything."
+    },
+    {
+      "key": "HintCard13",
+      "value": "The photo shows Al Capone - the most famous gangster of this time."
+    },
+    {
+      "key": "FullStory",
+      "value": "The deceased, named Jacques, was born in Poitiers, France. Due to the sudden death of his father Henri, he had to take responsibility for his younger sister Marie. When their mother died and the First World War broke out, the responsibility only increased.\nHis mother's injunction not to die in obscurity haunted him, and Jacques aspired to become a famous musician.\nFleeing the war, the orphans arrived in New York. But Jacques' sister, who was already in poor health, was only getting worse there. So they decided to start all over again in the suburbs of Chicago.\nThere, Marie gave birth to a son named Henry. After the child's father left her, Jacques realized that he would again have to take responsibility for his sister and nephew. But fate turned out to be cruel to them, and the child fell ill with whooping cough, a disease for which there was no cure until the vaccination was announced in 1933.\nJacques borrowed money for Henry's treatment from the mafia. He had to do a job for Al Capone to pay back the debt. But something went wrong and the mafia boss demanded to return the money with a large percentage. To earn them, Jacques asked a friend to invest money profitably-just a day before Black Thursday, a catostrophic drop in stock prices.\nAl Capone wasn't going to wait any longer for a refund. He sent his henchmen, who shot and killed Jacques, who tried to escape through the back entrance of the bar."
+    },
+    {
+      "key": "ImportantDecisions",
+      "value": "Important decisions:\n2 weeks ago - a: Since Marie decided to take control, Jacques didn't have to borrow money from Al Capone.\n2 days ago - с: Since Bill asked for an extension, Jacques was able to honestly give at least some of the money.\n2 hours ago - a: Al Capone's henchmen shot a trumpeter. Since Jacques had taken another tool, he had a chance to escape.\n7 minutes ago - b: Bill and his accomplice did not guard the back entrance, and so Jacques was able to escape from the bar unnoticed."
+    }
+  ]
+}

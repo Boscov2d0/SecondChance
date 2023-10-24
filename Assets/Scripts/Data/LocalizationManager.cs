@@ -16,6 +16,7 @@ namespace SecondChanse.Data
         public Dictionary<string, string> GameText;
 
         public Dictionary<string, string> CherryBlossomFestivalText;
+        public Dictionary<string, string> BloodInTheGutterText;
 
         public Dictionary<string, string> CurrentCardsText;
 
@@ -26,5 +27,6 @@ namespace SecondChanse.Data
         [SerializeField] public string GameTextsPath;
 
         [SerializeField] public string CherryBlossomFestivalTextsPath;
+        [SerializeField] public string BloodInTheGutterTextsPath;
     }
 }

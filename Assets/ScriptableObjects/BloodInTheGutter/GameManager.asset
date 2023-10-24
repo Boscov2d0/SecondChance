@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acf1ef225113b544ebd5ad3229a134ad, type: 3}
+  m_Name: GameManager
+  m_EditorClassIdentifier: 
+  <CountOfCard>k__BackingField: 13
+  <FirstCardNumber>k__BackingField: 12
+  <CountOfCloseCard>k__BackingField: 9
+  <CountOfHint>k__BackingField: 5
+  <RightChoices>k__BackingField:
+  - {fileID: 11400000, guid: 3d43aca2955b6d84f9b2bb58c37bfc5d, type: 2}
+  - {fileID: 11400000, guid: f3a446e825cfaf9409b95117a52ce368, type: 2}
+  - {fileID: 11400000, guid: 9191eacc106674f4fa0810c453dda3ca, type: 2}
+  - {fileID: 11400000, guid: 85c3ac6c8ff33044787f7bfe27eba6e5, type: 2}
+  - {fileID: 11400000, guid: 2347d79c646aacc41aacc1e5b7fa0494, type: 2}
+  - {fileID: 11400000, guid: c36fb9fa0a0653144804566085cf3d5b, type: 2}
+  - {fileID: 11400000, guid: 87e008a36f1bf344387cf0fc887b87ae, type: 2}
+  - {fileID: 11400000, guid: 6c34606bb34deb649974100b7179a93f, type: 2}
+  - {fileID: 11400000, guid: d4c980364a4e358439c8e711c759d356, type: 2}
+  - {fileID: 11400000, guid: 5ef72aacef384214681a498c198b949c, type: 2}
+  - {fileID: 11400000, guid: 7498911ab3e918040b3d8e677418e383, type: 2}
+  <CameraPath>k__BackingField: Game/Camera
+  <AudioControlerPath>k__BackingField: AudioController
+  CurrentAnswerType: 0
+  EndingState: 0
+  OpenCardsIndex: 

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8ec62248ea6d5f4eaa9384376e20692, type: 3}
+  m_Name: CardsSpriteManager
+  m_EditorClassIdentifier: 
+  <CloseCardSpirte>k__BackingField: {fileID: 21300000, guid: 6b72976ca85d7a54cb9dd3a098572c63,
+    type: 3}
+  <OpenCardSpirte>k__BackingField: {fileID: 21300000, guid: b4afd0b4266f0e84497930c29fd8b664,
+    type: 3}
+  <StoryCardSpirte>k__BackingField: {fileID: 21300000, guid: 9d5e2f7b650df404483de25e98a7dcf9,
+    type: 3}
+  <CloseStoryCardButtonSpirte>k__BackingField: {fileID: 21300000, guid: ab89f12085318a3429d8b930c99981c9,
+    type: 3}
+  <VeryBadEndSprite>k__BackingField: {fileID: 21300000, guid: 7c7532465a0a057418b608fa502dcc3f,
+    type: 3}
+  <BadEndSprite>k__BackingField: {fileID: 21300000, guid: c3c2850daf7e0584e8a9c3590247aa4c,
+    type: 3}
+  <NoChangeEndSprite>k__BackingField: {fileID: 21300000, guid: df06002dd196917499d9e2b616c6fe83,
+    type: 3}
+  <NormalEndSprite>k__BackingField: {fileID: 21300000, guid: b583339721d21184cb2df3fdb8060bf2,
+    type: 3}
+  <GoodEndSprite>k__BackingField: {fileID: 21300000, guid: a5c7fc59823f77c43a92a0cfd3a604d5,
+    type: 3}
+  <VeryGoodEndSprite>k__BackingField: {fileID: 21300000, guid: c07c70654286772499764d11944a95b3,
+    type: 3}
+  <FullStorySprite>k__BackingField: {fileID: 21300000, guid: 8c3aab910d0414d4d8d83de64f4a7723,
+    type: 3}
+  <ImportantDecisionsSprite>k__BackingField: {fileID: 21300000, guid: 8c3aab910d0414d4d8d83de64f4a7723,
+    type: 3}
+  <VeryBadEndColor>k__BackingField: {r: 0.05882353, g: 0.05882353, b: 0.05882353,
+    a: 1}
+  <BadEndColor>k__BackingField: {r: 0, g: 0, b: 0, a: 1}
+  <NoChangeEndColor>k__BackingField: {r: 0.09019608, g: 0.09019608, b: 0.09019608,
+    a: 1}
+  <NormalEndColor>k__BackingField: {r: 0.09803922, g: 0.09803922, b: 0.15686275, a: 1}
+  <GoodEndColor>k__BackingField: {r: 0.09803922, g: 0.09803922, b: 0.09803922, a: 1}
+  <VeryGoodEndColor>k__BackingField: {r: 0.7058824, g: 0.64705884, b: 0.54901963,
+    a: 1}

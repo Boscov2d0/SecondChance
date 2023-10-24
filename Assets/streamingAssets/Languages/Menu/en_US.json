@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "key": "ChooseStory",
+      "value": "Choose story"
+    },
+    {
+      "key": "Rules",
+      "value": "Rules"
+    },
+    {
+      "key": "Settings",
+      "value": "Settings"
+    },
+    {
+      "key": "Exit",
+      "value": "Exit"
+    },
+    {
+      "key": "LicenseText",
+      "value": "The game was based on the board games \"Второй шанс День сакуры\" and \"Второй шанс Смерть музыканта\" from Pegasus Spiele GmbH. Original name \"Undo:Cherry Blossom Festival\" and \"Undo:Blood in the gutter\". This game is not licensed with the permission of © 2020 Pegasus Spiele GmbH, Germany, www.pegasus.de, in contrast to the above-mentioned board games. This game is exclusively educational in terms of creating computer games and does not pursue any commercial purposes. Exclusive distributor on the territory of the Russian Federation, the Republics of Armenia, Belarus, Kazakhstan, Kyrgyzstan and Ukraine: LLC \"Настольные игры - Стиль Жизни\". Board Game Manufacturer: LLC \"Настольные игры - Стиль Жизни\", room 6A, III, 1 fl., bldg. 6, ul. 2st Filevskaya 7, Moscow, 121096, Russia. Tel.: +7 495 510 0539, mail@lifestyleltd.ru, www.LifeStyleLtd.tu"
+    },
+    {
+      "key": "HelloStory",
+      "value": "You are the creator of destiny. Collecting the past of a person from the fragments, you must understand his fate and prevent death."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿{
+  "items": [
+    {
+      "key": "ChooseStory",
+      "value": "选择故事"
+    },
+    {
+      "key": "Rules",
+      "value": "游戏规则"
+    },
+    {
+      "key": "Settings",
+      "value": "设置选项"
+    },
+    {
+      "key": "Exit",
+      "value": "退出"
+    },
+    {
+      "key": "LicenseText",
+      "value": "该游戏基于 Pegasus Spiele GmbH 的棋盘游戏 – “Второй шанс День сакуры” 和 “Второй шанс Смерть музыканта”。原名 “Undo:Cherry Blossom Festival” 和 “Undo: Blood in the gutter”。此游戏未经 © 2020Pegasus Spiele GmbH的许可，德国，www.pegasus.de，与上述游戏不同。这个游戏不追求任何商业目的。在俄罗斯联邦、亚美尼亚、白俄罗斯、哈萨克斯坦、吉尔吉斯斯坦和乌克兰共和国境内的独家经销商：LLC  “Настольные игры - Стиль Жизни”。棋盘游戏制造商：LLC “Настольные игры - Стиль Жизни”，俄罗斯，莫斯科，121096， ul。 2 Filevskaya 7，bldg.6， 1楼层，房间 6A 三。电话: +7 495 510 0539，mail@lifestyleltd.ru，www.LifeStyleLtd.tu。"
+    },
+    {
+      "key": "HelloStory",
+      "value": "你是命运的创造者。从碎片中收集一个人的过去，你必须了解他的命运并防止死亡。"
+    }
+  ]
+}

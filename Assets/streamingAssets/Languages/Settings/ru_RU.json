@@ -1,0 +1,36 @@
+﻿{
+  "items": [
+    {
+      "key": "Language",
+      "value": "Язык"
+    },
+    {
+      "key": "Resolution",
+      "value": "Разрешение экрана"
+    },
+    {
+      "key": "Fullscreen",
+      "value": "На весь экран"
+    },
+    {
+      "key": "On",
+      "value": "Вкл."
+    },
+    {
+      "key": "Off",
+      "value": "Выкл."
+    },
+    {
+      "key": "Sounds",
+      "value": "Звуки"
+    },
+    {
+      "key": "Musics",
+      "value": "Музыка"
+    },
+    {
+      "key": "Back",
+      "value": "Назад"
+    }
+  ]
+}

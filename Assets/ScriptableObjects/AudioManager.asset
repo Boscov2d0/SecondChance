@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f108717842ead9c408dc8ef264e9ed47, type: 3}
+  m_Name: AudioManager
+  m_EditorClassIdentifier: 
+  <AudioMixer>k__BackingField: {fileID: 24100000, guid: 46dff7c5fc718f044bdb191294c3e4f3,
+    type: 2}
+  <SimpleClickSound>k__BackingField: {fileID: 8300000, guid: d4379d4135f005648816d12e94152f72,
+    type: 3}
+  <ApplyClickSound>k__BackingField: {fileID: 8300000, guid: 0dee7a809355adb46a73c1daf056d6db,
+    type: 3}
+  <CherryBlossomFestivalMusic>k__BackingField: {fileID: 8300000, guid: f5c0d0792b6c04f42b9e2ab0f0929cc0,
+    type: 3}
+  <BloodInTheGutterMusic>k__BackingField: {fileID: 8300000, guid: fec60aeeeecac194e8c70837dfa3c633,
+    type: 3}
+  SimpleClickAudioSource: {fileID: 0}
+  ApplyClickAudioSource: {fileID: 0}
+  CherryBlossomFestivalAudioSource: {fileID: 0}
+  BloodInTheGutterAudioSource: {fileID: 0}
+  SoundsValue: 0.48214287
+  MusicValue: 1

@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "key": "CherryBlossomFestivalStoryInfo",
+      "value": "You will go to modern Japan. Death in the cherry blossom time... It's too late to fix something... Or is there hope?"
+    },
+    {
+      "key": "BloodInTheGutterStoryInfo",
+      "value": "You will travel to Chicago in the 20s. A teddy bear next to a pool of blood... Should the search for happiness end in death?"
+    },
+    {
+      "key": "Back",
+      "value": "Back"
+    }
+  ]
+}

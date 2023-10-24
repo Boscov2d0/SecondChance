@@ -1,0 +1,508 @@
+{
+  "items": [
+    {
+      "key": "TimeCard1",
+      "value": "60 years ago"
+    },
+    {
+      "key": "PlaceCard1",
+      "value": "Hiroshima,\nJapan"
+    },
+    {
+      "key": "DateCard1",
+      "value": "March 1, 1940\nlate in the evening"
+    },
+    {
+      "key": "OpenCard1",
+      "value": "60 years ago\nHiroshima,\nJapan\nMarch 1, 1940\nlate in the evening\n\nA boy about four or five years old is lying in bed and can't sleep. He is sad because his father could not come home for the cherry blossom festival because of an important business trip. Suddenly, he hears his mother giggling from the next room, and then a man's VOICE."
+    },
+    {
+      "key": "TimeCard2",
+      "value": "55 years ago"
+    },
+    {
+      "key": "PlaceCard2",
+      "value": "Hiroshima,\nJapan"
+    },
+    {
+      "key": "DateCard2",
+      "value": "August 3, 1945\nthe beginning of the evening in the pottery workshop"
+    },
+    {
+      "key": "OpenCard2",
+      "value": "55 years ago\nHiroshima,\nJapan\nAugust 3, 1945\nthe beginning of the evening in the pottery workshop\n\n\"Watch out!\" the father shouts at his SON, who shudders and looks at the shards in horror. \"Keep our vases as the hearts of your parents!\" Then he adds sternly, \"Your uncle will take you to your grandmother's tomorrow. It's safer there. Now at least take the vase to your mother in one piece!\""
+    },
+    {
+      "key": "TimeCard3",
+      "value": "50 years ago"
+    },
+    {
+      "key": "PlaceCard3",
+      "value": "Akioto,\nJapan"
+    },
+    {
+      "key": "DateCard3",
+      "value": "June 12, 1950\nearly morning"
+    },
+    {
+      "key": "OpenCard3",
+      "value": "50 years ago\nAkioto,\nJapan\nJune 12, 1950\nearly morning\n\nA teenager with a BACKPACK stands in front of his grandmother. She holds out a bandaged bundle. \"Taro,\" she says, \"take this suit. I made it for your father just a month before the tragedy. Unfortunately, I couldn't give it to him. And it will soon fit you.\""
+    },
+    {
+      "key": "TimeCard4",
+      "value": "35 years ago"
+    },
+    {
+      "key": "PlaceCard4",
+      "value": "Okayama,\nJapan"
+    },
+    {
+      "key": "DateCard4",
+      "value": "May 23, 1965\nevening in the hospital"
+    },
+    {
+      "key": "OpenCard4",
+      "value": "35 years ago\nOkayama,\nJapan\nMay 23, 1965\nevening in the hospital\n\nA crying man sits in a hospital gown by his wife's bed. She says, \" It's better this way. She will be a good mother to our children.\" \"I can't do that. Especially while you're...\" The man begins to sob. There's a noise coming from THE HALLWAY."
+    },
+    {
+      "key": "TimeCard5",
+      "value": "A month ago"
+    },
+    {
+      "key": "PlaceCard5",
+      "value": "Okayama,\nJapan"
+    },
+    {
+      "key": "DateCard5",
+      "value": "February 4, 2000\n15:08"
+    },
+    {
+      "key": "OpenCard5",
+      "value": "A month ago\nOkayama,\nJapan\nFebruary 4, 2000\n15:08\n\nThe pharmacist looks into the eyes of a desperate woman in her sixties who has just told him about her problem. \"Don't worry, Mrs. Totomi. You're just overworked. I will give you a remedy that will help.\" The woman nods and nervously opens her PURSE."
+    },
+    {
+      "key": "TimeCard6",
+      "value": "A week ago"
+    },
+    {
+      "key": "PlaceCard6",
+      "value": "Tokyo,\nJapan"
+    },
+    {
+      "key": "DateCard6",
+      "value": "February 23, 2000\n23:18"
+    },
+    {
+      "key": "OpenCard6",
+      "value": "A week ago\nTokyo,\nJapan\nFebruary 23, 2000\n23:18\n\nA woman in her forties enters her apartment, sorting through her mail. On one of the letters, she freezes. She goes to her desk and opens a DRAWER filled with unread emails. She looks at the unopened letter in her hand."
+    },
+    {
+      "key": "TimeCard7",
+      "value": "3 days ago"
+    },
+    {
+      "key": "PlaceCard7",
+      "value": "Osaka,\nJapan"
+    },
+    {
+      "key": "DateCard7",
+      "value": "February 27, 2000\n20:39"
+    },
+    {
+      "key": "OpenCard7",
+      "value": "3 days ago\nOsaka,\nJapan\nFebruary 27, 2000\n20:39\n\n\"How can you treat him so well? Are you going to send him a gift? After everything he'd done since mother's death?\" an angry female voice is heard shouting from the phone. Her brother, nervously twirling a BUSINESS CARD in his hands, tries to calm her down. \"Look, Yuki, it's been so long. And now it's the cherry blossom festival.\" But she had already hung up."
+    },
+    {
+      "key": "TimeCard8",
+      "value": "On the morning of his death"
+    },
+    {
+      "key": "PlaceCard8",
+      "value": "Okayama,\nJapan"
+    },
+    {
+      "key": "DateCard8",
+      "value": "March 1, 2000\n07:12"
+    },
+    {
+      "key": "OpenCard8",
+      "value": "On the morning of his death\nOkayama,\nJapan\nMarch 1, 2000\n07:12\n\nA man in his sixties stands HESITANTLY in his underwear in front of the closet. Sounds are heard from the kitchen - the woman says to him, \"Taro, don't miss your flight at 10. You know how important this is to you!\""
+    },
+    {
+      "key": "TimeCard9",
+      "value": "10 hours ago"
+    },
+    {
+      "key": "PlaceCard9",
+      "value": "Takamatsu,\nJapan"
+    },
+    {
+      "key": "DateCard9",
+      "value": "March 1, 2000\n09:55 at the airport"
+    },
+    {
+      "key": "OpenCard9",
+      "value": "10 hours ago\nTakamatsu,\nJapan\nMarch 1, 2000\n09:55 at the airport\n\nA young man in a uniform is vigorously trying to push a cleaning cart through the crowd. He's tense because he's barely moving forward, and his anger is growing by the second. He clutches the handles of the cart tightly and continues walking, but suddenly a terribly agitated man in a SUIT approaches him."
+    },
+    {
+      "key": "TimeCard10",
+      "value": "4 hours ago"
+    },
+    {
+      "key": "PlaceCard10",
+      "value": "Okayama,\nJapan"
+    },
+    {
+      "key": "DateCard10",
+      "value": "March 1, 2000\n15:27"
+    },
+    {
+      "key": "OpenCard10",
+      "value": "4 hours ago\nOkayama,\nJapan\nMarch 1, 2000\n15:27\n\nAn elderly man excitedly goes to his home. His wife is crying, clutching an open LETTER in her hand. He tries to hug her, but she pushes him away and starts yelling at him. She pulls the cherry branches out of the vase and smashes it against the wall. The shocked man bends down and begins to pick up the pieces. The woman runs out of the house."
+    },
+    {
+      "key": "TimeCard11",
+      "value": "An hour and a half ago"
+    },
+    {
+      "key": "PlaceCard11",
+      "value": "Okayama,\nJapan"
+    },
+    {
+      "key": "DateCard11",
+      "value": "March 1, 2000\n17:57"
+    },
+    {
+      "key": "OpenCard11",
+      "value": "An hour and a half ago\nOkayama,\nJapan\nMarch 1, 2000\n17:57\n\nA courier with a package rings the doorbell. Several branches have been cut from the cherry tree growing next to the WINDOW. No one opens the door, and the driver stopped in indecision."
+    },
+    {
+      "key": "TimeCard12",
+      "value": "The moment of death"
+    },
+    {
+      "key": "PlaceCard12",
+      "value": "Okayama,\nJapan"
+    },
+    {
+      "key": "DateCard12",
+      "value": "March 1, 2000\n19:27"
+    },
+    {
+      "key": "OpenCard12",
+      "value": "The moment of death\nOkayama,\nJapan\nMarch 1, 2000\n19:27\n\nA dead man in his sixties is lying on the floor of his living room. Next to it is a broken wine glass and a PHOTO of a young woman in a wheelchair. The deceased is dressed an old-fashioned blue suit. He has no visible injuries on the body, but does have a nearly imperceptible scar above the eye. The phone in his suit pocket rings, playing the Moonlight Sonata. On the table are several branches of cherry blossoms."
+    },
+    {
+      "key": "TimeCard13",
+      "value": "A week later"
+    },
+    {
+      "key": "PlaceCard13",
+      "value": "Hiroshima,\nJapan"
+    },
+    {
+      "key": "DateCard13",
+      "value": "March 8, 2000\n14:32"
+    },
+    {
+      "key": "OpenCard13",
+      "value": "A week later\nHiroshima,\nJapan\nMarch 8, 2000\n14:32\n\nThe funeral procession gathered around the coffin of the deceased. A crying woman in her forties stands in front of everyone, clutching a letter. Two women are WHISPERING in the back row."
+    },
+
+
+
+    {
+      "key": "StoryCard1",
+      "value": "60 years ago\nHiroshima,\nJapan\nMarch 1, 1940\nlate in the evening\n\nA boy about four or five years old is lying in bed and can't sleep. He is sad because his father could not come home for the cherry blossom festival because of an important business trip. Suddenly, he hears his mother giggling from the next room, and then a man's VOICE."
+    },
+    {
+      "key": "QuestionCard1",
+      "value": "You make sure that he:"
+    },
+    {
+      "key": "AnswerACard1",
+      "value": "a) Turns on the other side and falls asleep"
+    },
+    {
+      "key": "AnswerBCard1",
+      "value": "b) Calls his mother"
+    },
+    {
+      "key": "AnswerCCard1",
+      "value": "c) Gets up and goes to see"
+    },
+    {
+      "key": "HintCard1",
+      "value": "The boy hears the man say: \"Is Taro asleep? We could have a nice time.\""
+    },
+    {
+      "key": "StoryCard2",
+      "value": "55 years ago\nHiroshima,\nJapan\nAugust 3, 1945\nthe beginning of the evening in the pottery workshop\n\n\"Watch out!\" the father shouts at his SON, who shudders and looks at the shards in horror. \"Keep our vases as the hearts of your parents!\" Then he adds sternly, \"Your uncle will take you to your grandmother's tomorrow. It's safer there. Now at least take the vase to your mother in one piece!\""
+    },
+    {
+      "key": "QuestionCard2",
+      "value": "You make sure that son:"
+    },
+    {
+      "key": "AnswerACard2",
+      "value": "a) Obediently takes the vase to his mother"
+    },
+    {
+      "key": "AnswerBCard2",
+      "value": "b) Leaves without taking the vase"
+    },
+    {
+      "key": "AnswerCCard2",
+      "value": "c) Smashes the vase against the wall, screaming with rage"
+    },
+    {
+      "key": "HintCard2",
+      "value": "He's seething with anger inside. Above his eye is a scar-the mark of his father's severity."
+    },
+    {
+      "key": "StoryCard3",
+      "value": "50 years ago\nAkioto,\nJapan\nJune 12, 1950\nearly morning\n\nA teenager with a BACKPACK stands in front of his grandmother. She holds out a bandaged bundle. \"Taro,\" she says, \"take this suit. I made it for your father just a month before the tragedy. Unfortunately, I couldn't give it to him. And it will soon fit you.\""
+    },
+    {
+      "key": "QuestionCard3",
+      "value": "You make sure that he:"
+    },
+    {
+      "key": "AnswerACard3",
+      "value": "a) Takes the bundle"
+    },
+    {
+      "key": "AnswerBCard3",
+      "value": "b) Does not accept the bundle"
+    },
+    {
+      "key": "AnswerCCard3",
+      "value": "c) Immediately puts on the suit"
+    },
+    {
+      "key": "HintCard3",
+      "value": "In his backpack, a rare vase, neatly wrapped,is all that remains of his father."
+    },
+    {
+      "key": "StoryCard4",
+      "value": "35 years ago\nOkayama,\nJapan\nMay 23, 1965\nevening in the hospital\n\nA crying man sits in a hospital gown by his wife's bed. She says, \" It's better this way. She will be a good mother to our children.\" \"I can't do that. Especially while you're...\" The man begins to sob. There's a noise coming from THE HALLWAY."
+    },
+    {
+      "key": "QuestionCard4",
+      "value": "You make sure that:"
+    },
+    {
+      "key": "AnswerACard4",
+      "value": "a) The man calms down and promises his wife to keep a secret"
+    },
+    {
+      "key": "AnswerBCard4",
+      "value": "b) The woman they were talking about enters the room"
+    },
+    {
+      "key": "AnswerCCard4",
+      "value": "c) The man enters the corridor deep in thought"
+    },
+    {
+      "key": "HintCard4",
+      "value": "In the hallway, a girl is playing with her younger brother. \"I'll ask my dad later what's wrong with mom,\" the girl whispers confidently."
+    },
+    {
+      "key": "StoryCard5",
+      "value": "A month ago\nOkayama,\nJapan\nFebruary 4, 2000\n15:08\n\nThe pharmacist looks into the eyes of a desperate woman in her sixties who has just told him about her problem. \"Don't worry, Mrs. Totomi. You're just overworked. I will give you a remedy that will help.\" The woman nods and nervously opens her PURSE."
+    },
+    {
+      "key": "QuestionCard5",
+      "value": "You make sure that the pharmacist gives her:"
+    },
+    {
+      "key": "AnswerACard5",
+      "value": "a) Sleeping pills"
+    },
+    {
+      "key": "AnswerBCard5",
+      "value": "b) Antidepressants"
+    },
+    {
+      "key": "AnswerCCard5",
+      "value": "c) Vitamins"
+    },
+    {
+      "key": "HintCard5",
+      "value": "The purse has a pattern in the shape of sakura flowers. Inside it is an empty bottle of antidepressants."
+    },
+    {
+      "key": "StoryCard6",
+      "value": "A week ago\nTokyo,\nJapan\nFebruary 23, 2000\n23:18\n\nA woman in her forties enters her apartment, sorting through her mail. On one of the letters, she freezes. She goes to her desk and opens a DRAWER filled with unread emails. She looks at the unopened letter in her hand."
+    },
+    {
+      "key": "QuestionCard6",
+      "value": "You make sure that she:"
+    },
+    {
+      "key": "AnswerACard6",
+      "value": "a) Puts the unopened letter in the mailbox"
+    },
+    {
+      "key": "AnswerBCard6",
+      "value": "b) Prints the letter and reads it"
+    },
+    {
+      "key": "AnswerCCard6",
+      "value": "c) Does not read the letter, but writes his own"
+    },
+    {
+      "key": "HintCard6",
+      "value": "There's a picture in the drawer: a woman in a wheelchair, with a girl on her lap. The girl has a stuffed rabbit in her hands. Next to the woman are a small boy and a man whose face is torn out of the photo."
+    },
+    {
+      "key": "StoryCard7",
+      "value": "3 days ago\nOsaka,\nJapan\nFebruary 27, 2000\n20:39\n\n\"How can you treat him so well? Are you going to send him a gift? After everything he'd done since mother's death?\" an angry female voice is heard shouting from the phone. Her brother, nervously twirling a BUSINESS CARD in his hands, tries to calm her down. \"Look, Yuki, it's been so long. And now it's the cherry blossom festival.\" But she had already hung up."
+    },
+    {
+      "key": "QuestionCard7",
+      "value": "You make sure that he types in the search bar:"
+    },
+    {
+      "key": "AnswerACard7",
+      "value": "a) \"Whiskey\""
+    },
+    {
+      "key": "AnswerBCard7",
+      "value": "b) \"Cigarettes\""
+    },
+    {
+      "key": "AnswerCCard7",
+      "value": "c) \"Suicide\""
+    },
+    {
+      "key": "HintCard7",
+      "value": "This is an old business card of a man named Taro Totomi, who lives in Okayama."
+    },
+    {
+      "key": "StoryCard8",
+      "value": "On the morning of his death\nOkayama,\nJapan\nMarch 1, 2000\n07:12\n\nA man in his sixties stands HESITANTLY in his underwear in front of the closet. Sounds are heard from the kitchen - the woman says to him, \"Taro, don't miss your flight at 10. You know how important this is to you!\""
+    },
+    {
+      "key": "QuestionCard8",
+      "value": "You make sure that he chooses:"
+    },
+    {
+      "key": "AnswerACard8",
+      "value": "a) New grey suit"
+    },
+    {
+      "key": "AnswerBCard8",
+      "value": "b) Old blue suit"
+    },
+    {
+      "key": "AnswerCCard8",
+      "value": "c) Something comfortable"
+    },
+    {
+      "key": "HintCard8",
+      "value": "Sweat stands out on the man's face. He thinks about putting on his father's blue suit again."
+    },
+    {
+      "key": "StoryCard9",
+      "value": "10 hours ago\nTakamatsu,\nJapan\nMarch 1, 2000\n09:55 at the airport\n\nA young man in a uniform is vigorously trying to push a cleaning cart through the crowd. He's tense because he's barely moving forward, and his anger is growing by the second. He clutches the handles of the cart tightly and continues walking, but suddenly a terribly agitated man in a SUIT approaches him."
+    },
+    {
+      "key": "QuestionCard9",
+      "value": "You make sure that he:"
+    },
+    {
+      "key": "AnswerACard9",
+      "value": "a) Gets in the way of the man"
+    },
+    {
+      "key": "AnswerBCard9",
+      "value": "b) Stops and offers the man help"
+    },
+    {
+      "key": "AnswerCCard9",
+      "value": "c) Crashes into the man at full speed and shouts \"Watch out!\""
+    },
+    {
+      "key": "HintCard9",
+      "value": "From the phone in his right pocket, he can hear \"Moonlight Sonata\". From the left-the head of a stuffed rabbit sticks out."
+    },
+    {
+      "key": "StoryCard10",
+      "value": "4 hours ago\nOkayama,\nJapan\nMarch 1, 2000\n15:27\n\nAn elderly man excitedly goes to his home. His wife is crying, clutching an open LETTER in her hand. He tries to hug her, but she pushes him away and starts yelling at him. She pulls the cherry branches out of the vase and smashes it against the wall. The shocked man bends down and begins to pick up the pieces. The woman runs out of the house."
+    },
+    {
+      "key": "QuestionCard10",
+      "value": "You make sure that she:"
+    },
+    {
+      "key": "AnswerACard10",
+      "value": "a) Leaves a letter"
+    },
+    {
+      "key": "AnswerBCard10",
+      "value": "b) Takes the phone with him"
+    },
+    {
+      "key": "AnswerCCard10",
+      "value": "c) Forgets the purse"
+    },
+    {
+      "key": "HintCard10",
+      "value": "There are traces of lipstick on the envelope next to the address."
+    },
+    {
+      "key": "StoryCard11",
+      "value": "An hour and a half ago\nOkayama,\nJapan\nMarch 1, 2000\n17:57\n\nA courier with a package rings the doorbell. Several branches have been cut from the cherry tree growing next to the WINDOW. No one opens the door, and the driver stopped in indecision."
+    },
+    {
+      "key": "QuestionCard11",
+      "value": "You make sure that he:"
+    },
+    {
+      "key": "AnswerACard11",
+      "value": "a) Leaves the package next to the door"
+    },
+    {
+      "key": "AnswerBCard11",
+      "value": "b) Leaves a note and takes the package with him"
+    },
+    {
+      "key": "AnswerCCard11",
+      "value": "c) Continues to ring the doorbell"
+    },
+    {
+      "key": "HintCard11",
+      "value": "Melancholy music and male sobs can be heard from the half-open window."
+    },
+    {
+      "key": "StoryCard12",
+      "value": "The moment of death\nOkayama,\nJapan\nMarch 1, 2000\n19:27\n\nA dead man in his sixties is lying on the floor of his living room. Next to it is a broken wine glass and a PHOTO of a young woman in a wheelchair. The deceased is dressed an old-fashioned blue suit. He has no visible injuries on the body, but does have a nearly imperceptible scar above the eye. The phone in his suit pocket rings, playing the Moonlight Sonata. On the table are several branches of cherry blossoms."
+    },
+    {
+      "key": "HintCard12",
+      "value": "The photos seem to be more than 30 years old. A small boy and girl are playing in the background."
+    },
+    {
+      "key": "StoryCard13",
+      "value": "A week later\nHiroshima,\nJapan\nMarch 8, 2000\n14:32\n\nThe funeral procession gathered around the coffin of the deceased. A crying woman in her forties stands in front of everyone, clutching a letter. Two women are WHISPERING in the back row."
+    },
+    {
+      "key": "QuestionCard13",
+      "value": "Since these events take place after the death of the deceased, your actions here, unfortunately, will not change anything."
+    },
+    {
+      "key": "HintCard13",
+      "value": "\"Poor thing. If she had forgiven her father earlier, this wouldn't have happened.\""
+    },
+
+    {
+      "key": "FullStory",
+      "value": "The parents of the deceased Taro Totomi died in the bombing of Herashima when Taro was 10 years old. He survived because his parents sent him to his grandmother a few days before the tragedy. The last memory of his parents was the broken vase and the reproaches of his father. When he was 15, Taro left the village for the big city. His grandmother gave him a blue suit that she had once made for his father. Taro got married. His wife was terminally ill, but gave birth to a son and a daughter. The children grew up convinced that their father had cheated on his terminally ill wife and taken the children to a new wife, leaving their mother to die alone. In fact, the dying woman asked her husband to marry her friend. She didn't want her children to see her agonizing death and grow up without a mother. Because of the traditions and cultural characteristics, they decided to keep it a secret from the children. On a tragic day, Taro was going to fly to his daughter to tell the truth. All these years she had not answered his letters. Unfortunately, he missed his flight. When he returned home, his second wife ran away in tears because she found a letter indicating his infidelity.Neither she or her husband knew that this letter was his daughter's revenge. When the second wife of the Tarot broke the vase on his father and left his life as there are only small pieces. He passed away with a handful of pills washed down with a glass of wine and a photograph of his dead first wife in his hand."
+    },
+    {
+      "key": "ImportantDecisions",
+      "value": "Important decisions:\nA month ago - c: Taro was looking for pills to commit suicide, but found only vitamins that the pharmacist sold to his wife.\nA week ago - b: When Taro's daughter finally read one of his writings, she found out the truth and decided to talk to him.\nThree days ago - c: Taro's son had been worried about his father for a long time. After reading about suicides, he sent his father a book that could help him. After looking through several pages, Taro began to doubt his decision.\nAn hour and a half ago - c: Due to the persistence of the courier, Taro received a package from his son. So he remembered that there are people in the world for whom he is important."
+    }
+  ]
+}

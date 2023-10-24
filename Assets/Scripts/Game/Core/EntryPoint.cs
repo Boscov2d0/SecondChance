@@ -44,6 +44,11 @@ namespace SecondChanse.Game.Core
                     _cardsSpriteManager = _managers.CherryBlossomFestivalCardsSpriteManager;
                     _localizationManager.CurrentCardsText = _localizationManager.CherryBlossomFestivalText;
                     break;
+                case Story.BloodInTheGutter:
+                    _gameManager = _managers.BloodInTheGutterGameManager;
+                    _cardsSpriteManager = _managers.BloodInTheGutterCardsSpriteManager;
+                    _localizationManager.CurrentCardsText = _localizationManager.BloodInTheGutterText;
+                    break;
             }
         }
     }

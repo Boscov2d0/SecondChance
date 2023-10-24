@@ -14,6 +14,7 @@ namespace SecondChanse.Tools
         public enum LocalizationStoryMapTextKeys
         {
             CherryBlossomFestivalStoryInfo,
+            BloodInTheGutterStoryInfo,
             Back
         }
         public enum LocalizationRulesTextKeys

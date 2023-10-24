@@ -4,6 +4,7 @@ namespace SecondChanse.Tools
     {
         Null,
         Menu,
-        CherryBlossomFestival
+        CherryBlossomFestival,
+        BloodInTheGutter
     }
 }

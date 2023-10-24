@@ -32,6 +32,9 @@ namespace SecondChanse.Game.UI.View
                 case Story.CherryBlossomFestival:
                     _gameManager = _storysManagers.CherryBlossomFestivalGameManager;
                     break;
+                case Story.BloodInTheGutter:
+                    _gameManager = _storysManagers.BloodInTheGutterGameManager;
+                    break;
             }
         }
         private void OnDestroy()

@@ -47,6 +47,9 @@ namespace SecondChanse.Game.UI.View
             _gameManager.CurrentCountOfCloseCard.SubscribeOnChange(OnStoryCartValueChange);
             _gameManager.CurrentCountOfHint.SubscribeOnChange(OnHintCartValueChange);
 
+            OnStoryCartValueChange();
+            OnHintCartValueChange();
+
             TranslateText();
         }
         private void OnDestroy()

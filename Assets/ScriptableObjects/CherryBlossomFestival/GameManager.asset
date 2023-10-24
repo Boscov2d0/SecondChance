@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <CountOfCard>k__BackingField: 13
   <FirstCardNumber>k__BackingField: 12
-  <CountOfCloseCard>k__BackingField: 10
+  <CountOfCloseCard>k__BackingField: 9
   <CountOfHint>k__BackingField: 5
   <RightChoices>k__BackingField:
   - {fileID: 11400000, guid: 6af3cd7188009344ea7bb8b3af8c7d20, type: 2}
@@ -31,4 +31,5 @@ MonoBehaviour:
   <CameraPath>k__BackingField: Game/Camera
   <AudioControlerPath>k__BackingField: AudioController
   CurrentAnswerType: 1
-  EndingState: 2
+  EndingState: 1
+  OpenCardsIndex: 03000000

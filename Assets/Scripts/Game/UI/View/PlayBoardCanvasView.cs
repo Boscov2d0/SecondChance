@@ -1,17 +1,23 @@
+using SecondChanse.Data;
 using SecondChanse.Game.Data;
+using SecondChanse.Tools;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
+using LGTK = SecondChanse.Tools.LocalizationTextKeys.LocalizationGameTextKeys;
+
 namespace SecondChanse.Game.UI.View
 {
     public class PlayBoardCanvasView : MonoBehaviour
     {
+        [SerializeField] private LocalizationManager _localizationManager;
         [SerializeField] private Text _storyCartLeftText;
         [SerializeField] private Text _hintCartLeftText;
         [SerializeField] private Text _storyCartLeftValue;
         [SerializeField] private Text _hintCartLeftValue;
+        [SerializeField] private Text _exitButtonText;
         [SerializeField] private Button _playMusicButton;
         [SerializeField] private Button _muteMusicButton;
         [SerializeField] private Button _exitButton;
@@ -40,6 +46,8 @@ namespace SecondChanse.Game.UI.View
 
             _gameManager.CurrentCountOfCloseCard.SubscribeOnChange(OnStoryCartValueChange);
             _gameManager.CurrentCountOfHint.SubscribeOnChange(OnHintCartValueChange);
+
+            TranslateText();
         }
         private void OnDestroy()
         {
@@ -49,6 +57,15 @@ namespace SecondChanse.Game.UI.View
             _playMusicButton.onClick.RemoveListener(_playMusic);
             _muteMusicButton.onClick.RemoveListener(_muteMusic);
             _exitButton.onClick.RemoveListener(_exit);
+        }
+        private void TranslateText() 
+        {
+            _storyCartLeftText.text = Localizator.GetLocalizedValue(_localizationManager.GameText,
+                                      LGTK.StoryCardLeft);
+            _hintCartLeftText.text = Localizator.GetLocalizedValue(_localizationManager.GameText,
+                                      LGTK.HitnCardLeft);
+            _exitButtonText.text = Localizator.GetLocalizedValue(_localizationManager.GameText,
+                                      LGTK.Menu);
         }
         private void OnStoryCartValueChange() 
         {

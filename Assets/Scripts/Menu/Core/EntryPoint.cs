@@ -17,8 +17,8 @@ namespace SecondChanse.Menu.Core
         [SerializeField] private GameManager _gameManager;
         [SerializeField] private UIManager _uiManager;
 
-        private LocalizationController _localizationController;
         private LoadController _loadController;
+        private LocalizationController _localizationController;
         private MainUIController _mainUIController;
         private GameController _gameController;
 
@@ -29,9 +29,10 @@ namespace SecondChanse.Menu.Core
             ResourcesLoader.InstantiateObject<Camera>(_gameManager.CameraPath);
             ResourcesLoader.InstantiateObject<AudioController>(_gameManager.AudioControlerPath);
 
-            _localizationController = new LocalizationController(_localizationManager);
+
             _loadController = new LoadController(_saveLoadManager, _localizationManager, 
-                                                 _gameManager, _videoManager, _audioManager);
+                                                 _videoManager, _audioManager);
+            _localizationController = new LocalizationController(_saveLoadManager, _localizationManager);
             _mainUIController = new MainUIController(_saveLoadManager, _localizationManager, 
                                                      _videoManager, _audioManager, 
                                                      _playerProfile, _gameManager, _uiManager);

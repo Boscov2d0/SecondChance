@@ -8,6 +8,7 @@ namespace SecondChanse.Menu.Data
         [field: SerializeField] public string UIObjectsPath;
         [field: SerializeField] public string MenuCanvasPath;
         [field: SerializeField] public string StoryMapCanvasPath;
+        [field: SerializeField] public string RulesCanvasPath;
         [field: SerializeField] public string SetingsCanvasPath;
     }
 }

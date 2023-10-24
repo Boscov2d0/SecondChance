@@ -11,6 +11,5 @@ namespace SecondChanse.Menu.Data
 
         [field: SerializeField] public string CameraPath { get; private set; }
         [field: SerializeField] public string AudioControlerPath { get; private set; }
-        [HideInInspector] public bool OldSave;
     }
 }

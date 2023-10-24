@@ -1,4 +1,5 @@
 using SecondChanse.Data;
+using SecondChanse.Tools;
 using UnityEngine;
 
 namespace SecondChanse.Core
@@ -17,6 +18,14 @@ namespace SecondChanse.Core
             _applyClickSound.clip = _audioManager.ApplyClickSound;
             _audioManager.SimpleClickAudioSource = _simpleClickSound;
             _audioManager.ApplyClickAudioSource = _applyClickSound;
+
+            switch (_playerProfile.Story)
+            {
+                case Story.CherryBlossomFestival:
+                    _music.clip = _audioManager.CherryBlossomFestivalMusic;
+                    _audioManager.CherryBlossomFestivalAudioSource = _music;
+                    break;
+            }
 
             _music.Play();
         }

@@ -37,7 +37,7 @@ namespace SecondChanse.Game.UI.View
         public Text PositivResultText => _positivResultText;
         public Text NeitralResultText => _neitralResultText;
 
-        public void Initialize(GameManager gameManager, CardsSpriteManager cardsSpriteManager, UnityAction closeStory, 
+        public void Initialize(GameManager gameManager, CardsSpriteManager cardsSpriteManager, UnityAction closeStory,
                                int cardIndex, bool answered, int answersPointResult)
         {
             _gameManager = gameManager;
@@ -65,9 +65,9 @@ namespace SecondChanse.Game.UI.View
             if (_cardIndex != _gameManager.FirstCardNumber)
                 _questionText.text = Localizator.GetLocalizedValue(_localizationManager.CurrentCardsText,
                                      LSTK.QuestionCard + _cardIndex.ToString());
-            if (_cardIndex != _gameManager.CountOfCard)
-                _hintText.text = Localizator.GetLocalizedValue(_localizationManager.CurrentCardsText,
-                                 LSTK.HintCard + _cardIndex.ToString());
+
+            _hintText.text = Localizator.GetLocalizedValue(_localizationManager.CurrentCardsText,
+                             LSTK.HintCard + _cardIndex.ToString());
 
             if (_cardIndex != _gameManager.FirstCardNumber && _cardIndex != _gameManager.CountOfCard)
             {

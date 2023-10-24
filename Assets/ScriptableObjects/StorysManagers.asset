@@ -12,11 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c1f82f7644cbba40afe31e5b73f68d6, type: 3}
   m_Name: StorysManagers
   m_EditorClassIdentifier: 
-  <CherryBlossomFestivalGameManager>k__BackingField: {fileID: 11400000, guid: fc21098510779564f9d49b06cf945946,
-    type: 2}
-  <BloodInTheGutterGameManager>k__BackingField: {fileID: 11400000, guid: 3f0cbc5cf90e938499e57bd270c67fab,
-    type: 2}
-  <CherryBlossomFestivalCardsSpriteManager>k__BackingField: {fileID: 11400000, guid: cbc4f398f4a3e164eb927b486e40310d,
-    type: 2}
-  <BloodInTheGutterCardsSpriteManager>k__BackingField: {fileID: 11400000, guid: 5f5cc0f5d84ed7b47aea53fff3c91072,
-    type: 2}
+  <CherryBlossomFestivalGameManager>k__BackingField: {fileID: 11400000, guid: fc21098510779564f9d49b06cf945946, type: 2}
+  <BloodInTheGutterGameManager>k__BackingField: {fileID: 11400000, guid: fc21098510779564f9d49b06cf945946, type: 2}
+  <CherryBlossomFestivalCardsSpriteManager>k__BackingField: {fileID: 11400000, guid: cbc4f398f4a3e164eb927b486e40310d, type: 2}

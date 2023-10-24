@@ -51,20 +51,17 @@ namespace SecondChanse.Menu.Core
         }
         private void SetVideoSettings()
         {
-            if (!_gameManager.OldSave)
+            if (_videoManager.ScreenResolutionsWidth == 0)
             {
                 _videoManager.ScreenResolutionsWidth = Screen.currentResolution.width;
                 _videoManager.ScreenResolutionsHeight = Screen.currentResolution.height;
                 _videoManager.ScreenResolutionsRefreshRate = Screen.currentResolution.refreshRate;
                 _videoManager.Fullscreen = true;
                 Screen.SetResolution(_videoManager.ScreenResolutionsWidth, _videoManager.ScreenResolutionsHeight, _videoManager.Fullscreen, _videoManager.ScreenResolutionsRefreshRate);
-                Saver.SaveSettingsData(_saveLoadManager, _videoManager, _audioManager);
+                Saver.SaveVideoSettingsData(_saveLoadManager, _videoManager);
             }
             else
-            {
-                Screen.fullScreen = _videoManager.Fullscreen;
                 Screen.SetResolution(_videoManager.ScreenResolutionsWidth, _videoManager.ScreenResolutionsHeight, _videoManager.Fullscreen, _videoManager.ScreenResolutionsRefreshRate);
-            }
         }
         private void SetAudioSettings()
         {

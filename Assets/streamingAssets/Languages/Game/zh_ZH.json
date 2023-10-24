@@ -1,11 +1,11 @@
 ﻿{
   "items": [
     {
-      "key": "CountOfEvidence",
+      "key": "StoryCardLeft",
       "value": "还剩的故事卡"
     },
     {
-      "key": "CountOfHint",
+      "key": "HitnCardLeft",
       "value": "还剩的提示卡"
     },
     {

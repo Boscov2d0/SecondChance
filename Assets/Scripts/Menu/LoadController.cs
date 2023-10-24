@@ -10,16 +10,14 @@ namespace SecondChanse.Core
     {
         private readonly SaveLoadManager _saveLoadManager;
         private readonly LocalizationManager _localizationManager;
-        private readonly GameManager _gameManager;
         private readonly VideoManager _videoManager;
         private readonly AudioManager _audioManager;
 
         public LoadController(SaveLoadManager saveLoadManager, LocalizationManager localizationManager, 
-                              GameManager gameManager, VideoManager videoManager, AudioManager audioManager)
+                              VideoManager videoManager, AudioManager audioManager)
         {
             _saveLoadManager = saveLoadManager;
             _localizationManager = localizationManager;
-            _gameManager = gameManager;
             _videoManager = videoManager;
             _audioManager = audioManager;
 
@@ -30,7 +28,6 @@ namespace SecondChanse.Core
         {
             _saveLoadManager.SettingsData = JSONDataLoadSaver<SettingsData>.Load(_saveLoadManager.SettingsDataPath);
 
-            _gameManager.OldSave = _saveLoadManager.SettingsData.OldSave;
             _localizationManager.Language.Value = _saveLoadManager.SettingsData.Language;
             _videoManager.ScreenResolutionsWidth = _saveLoadManager.SettingsData.WidthScreen;
             _videoManager.ScreenResolutionsHeight = _saveLoadManager.SettingsData.HeightScreen;

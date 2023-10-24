@@ -19,7 +19,14 @@ namespace SecondChanse.Menu.UI.Controller
 
             StoryMapCanvasView storyMapCanvas = ResourcesLoader.InstantiateAndGetObject<StoryMapCanvasView>(uiManager.UIObjectsPath + uiManager.StoryMapCanvasPath);
             AddGameObject(storyMapCanvas.gameObject);
-            storyMapCanvas.Initialize(Back);
+            storyMapCanvas.Initialize(StartCherryBlossomFestivalStory, Back);
+        }
+        private void StartCherryBlossomFestivalStory() 
+        {
+            ApplyButtonSound();
+
+            _playerProfile.Story = Story.CherryBlossomFestival;
+            _gameManager.State.Value = MenuState.LoadStory;
         }
         private void Back() 
         {

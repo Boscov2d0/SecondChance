@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "key": "CountOfEvidence",
+      "key": "StoryCardLeft",
       "value": "Story cards left"
     },
     {
-      "key": "CountOfHint",
+      "key": "HitnCardLeft",
       "value": "Hints left"
     },
     {

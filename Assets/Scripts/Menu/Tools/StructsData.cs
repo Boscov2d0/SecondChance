@@ -5,7 +5,6 @@ namespace SecondChanse.Menu.Tools
     [Serializable]
     public struct SettingsData
     {
-        public bool OldSave;
         public string Language;
         public int WidthScreen;
         public int HeightScreen;

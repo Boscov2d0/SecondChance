@@ -1258,11 +1258,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 144896aa6693f8d438f13f973d1da5fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _gameManager: {fileID: 11400000, guid: fc21098510779564f9d49b06cf945946, type: 2}
+  _localizationManager: {fileID: 11400000, guid: 943972f3b4155f344818d6561b454310, type: 2}
   _storyCartLeftText: {fileID: 8156630292895835827}
   _hintCartLeftText: {fileID: 3927116852619863610}
   _storyCartLeftValue: {fileID: 4047052545814704554}
   _hintCartLeftValue: {fileID: 3042576188302132752}
+  _exitButtonText: {fileID: 2239503821865972212}
   _playMusicButton: {fileID: 5438556932571287358}
   _muteMusicButton: {fileID: 1226262551549527628}
   _exitButton: {fileID: 3669204775612310259}

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5c155fe36e8e4664f98090c3ba47bd83, type: 3}
-  m_Name: GameUIManager
+  m_Name: UIManager
   m_EditorClassIdentifier: 
   <UIObjectsPath>k__BackingField: Game/UI/
   <PlayBoatdCanvasPath>k__BackingField: PlayBoardCanvas

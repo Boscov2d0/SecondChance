@@ -16,12 +16,11 @@ namespace SecondChanse.Game.Core
 
         private GameManager _gameManager;
         private CardsSpriteManager _cardsSpriteManager;
-        private LocalizationController _localizationController;
         private GameController _gameController;
 
         private void Awake()
         {
-            _localizationController = new LocalizationController(_localizationManager);
+            SetStory();
 
             ResourcesLoader.InstantiateObject<Camera>(_gameManager.CameraPath);
             ResourcesLoader.InstantiateObject<AudioController>(_gameManager.AudioControlerPath);
@@ -34,8 +33,18 @@ namespace SecondChanse.Game.Core
         }
         private void OnDestroy()
         {
-            _localizationController?.Dispose();
             _gameController?.Dispose();
+        }
+        private void SetStory()
+        {
+            switch (_playerProfile.Story)
+            {
+                case Story.CherryBlossomFestival:
+                    _gameManager = _managers.CherryBlossomFestivalGameManager;
+                    _cardsSpriteManager = _managers.CherryBlossomFestivalCardsSpriteManager;
+                    _localizationManager.CurrentCardsText = _localizationManager.CherryBlossomFestivalText;
+                    break;
+            }
         }
     }
 }

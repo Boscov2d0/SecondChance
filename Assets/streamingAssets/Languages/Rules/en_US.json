@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "key": "Next",
+      "value": "Next page"
+    },
+    {
+      "key": "Prev",
+      "value": "Previous page"
+    },
+    {
+      "key": "Back",
+      "value": "Back"
+    },
+    {
+      "key": "Page1",
+      "value": "The death of a loved one is a terrible tragedy that brings only grief and emptiness. You are the creator of destiny. You are able to stop the passage of time and move various moments of the deceased's life to save him from death and give him another chance. You can only influence for brief moments, but your careful intervention should be enough. Now the events of the past will develop in a new way, and the fate of the deceased will follow a different path."
+    },
+    {
+      "key": "Page2",
+      "value": "First you have to find out the circumstances of the death that you need to prevent. At the beginning of the game, one of the 13 Story Cards will open. In total, you can open only 10 of them in the game, including the first card."
+    },
+    {
+      "key": "Page3",
+      "value": "In the upper-left part of the History Map, the date, the place of the moment, and the story itself, which takes place at this moment, are written."
+    },
+    {
+      "key": "Page4",
+      "value": "In the lower-left part of the History Map, you will see possible options for changing the past. If you managed to change the past for the better, you get points, and if you only made it worse, you lose. If you didn't change anything, you doomed the deceased to repeat his fate and got 0 points. You can only choose once, so choose carefully."
+    },
+    {
+      "key": "Page5",
+      "value": "You can use the Hint Map located in the upper-right part of the History Map corresponding to the current History Map. To see the hint, click on the image. But remember, you can only open 5 Hint Cards per game."
+    },
+    {
+      "key": "Page6",
+      "value": "In the lower right part of the History Map, there is a button to close the History Map."
+    },
+    {
+      "key": "Page7",
+      "value": "This is what the History Map looks like when you read it. To open it, click on the map again."
+    },
+    {
+      "key": "Page8",
+      "value": "Each History Map has the date and place of the history event written on it."
+    },
+    {
+      "key": "Page9",
+      "value": "Here you can see how many more History Cards you can open."
+    },
+    {
+      "key": "Page10",
+      "value": "Here you can see how many more Hint Cards you can open."
+    },
+    {
+      "key": "Page11",
+      "value": "These two buttons are responsible for turning the music on and off."
+    },
+    {
+      "key": "Page12",
+      "value": "With this button, you can end the game and go to the main menu."
+    },
+    {
+      "key": "Page13",
+      "value": "The game will end when you have no History Cards left. Еhe game will automatically count your points and show you what result you managed to achieve. Have a nice game)"
+    }
+  ]
+}

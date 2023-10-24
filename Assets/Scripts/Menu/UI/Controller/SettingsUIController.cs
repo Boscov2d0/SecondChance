@@ -102,7 +102,7 @@ namespace SecondChanse.Menu.UI.Controller
         }
         private void Back() 
         {
-            Saver.SaveSettingsData(_saveLoadManager, _localizationManager, _videoManager, _audioManager);
+            Saver.SaveAllSettings(_saveLoadManager, _localizationManager, _videoManager, _audioManager);
             ApplyButtonSound();
             _gameManager.State.Value = MenuState.Menu;
         }

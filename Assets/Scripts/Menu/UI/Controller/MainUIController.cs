@@ -17,6 +17,7 @@ namespace SecondChanse.Menu.UI.Controller
 
         private MenuUIController _menuUIController;
         private StoryMapUIController _storyMapUIController;
+        private RulesUIController _rulesUIController;
         private SettingsUIController _settingsUIController;
 
         public MainUIController(SaveLoadManager saveLoadManager, LocalizationManager localizationManager, 
@@ -55,6 +56,10 @@ namespace SecondChanse.Menu.UI.Controller
                                                                      _gameManager, _uiManager);
                     AddController(_storyMapUIController);
                     break;
+                case Tools.MenuState.Rules:
+                    _rulesUIController = new RulesUIController(_audioManager, _gameManager, _uiManager);
+                    AddController(_rulesUIController);
+                    break;
                 case Tools.MenuState.Settings:
                     _settingsUIController = new SettingsUIController(_saveLoadManager, _localizationManager, 
                                                                      _videoManager, _audioManager, 
@@ -70,6 +75,7 @@ namespace SecondChanse.Menu.UI.Controller
         {
             _menuUIController?.Dispose();
             _storyMapUIController?.Dispose();
+            _rulesUIController?.Dispose();
             _settingsUIController?.Dispose();
         }
     }

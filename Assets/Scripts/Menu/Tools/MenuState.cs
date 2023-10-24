@@ -6,6 +6,7 @@ namespace SecondChanse.Menu.Tools
         Menu,
         StoryMap,
         LoadStory,
+        Rules,
         Settings,
         Exit
     }

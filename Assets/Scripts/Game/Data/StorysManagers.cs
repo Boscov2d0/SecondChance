@@ -8,6 +8,5 @@ namespace SecondChanse.Game.Data
         [field: SerializeField] public GameManager CherryBlossomFestivalGameManager { get; private set; }
         [field: SerializeField] public GameManager BloodInTheGutterGameManager { get; private set; }
         [field: SerializeField] public CardsSpriteManager CherryBlossomFestivalCardsSpriteManager { get; private set; }
-        [field: SerializeField] public CardsSpriteManager BloodInTheGutterCardsSpriteManager { get; private set; }
     }
 }

@@ -17,13 +17,18 @@ namespace SecondChanse.Menu.UI.Controller
 
             MenuCanvasView menuCanvas = ResourcesLoader.InstantiateAndGetObject<MenuCanvasView>(uiManager.UIObjectsPath + uiManager.MenuCanvasPath);
             AddGameObject(menuCanvas.gameObject);
-            menuCanvas.Initialize(ChooseStory, Settings, Exit);
+            menuCanvas.Initialize(ChooseStory, Rules, Settings, Exit);
         }
 
         private void ChooseStory()
         {
             ApplyButtonSound();
             _gameManager.State.Value = Tools.MenuState.StoryMap;
+        }
+        private void Rules()
+        {
+            SimpleButtonSound();
+            _gameManager.State.Value = Tools.MenuState.Rules;
         }
         private void Settings()
         {

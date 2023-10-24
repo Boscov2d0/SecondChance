@@ -1,11 +1,11 @@
 ﻿{
   "items": [
     {
-      "key": "CountOfEvidence",
+      "key": "StoryCardLeft",
       "value": "Осталось карт историй"
     },
     {
-      "key": "CountOfHint",
+      "key": "HitnCardLeft",
       "value": "Осталось подсказок"
     },
     {

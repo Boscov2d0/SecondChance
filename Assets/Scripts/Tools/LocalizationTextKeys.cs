@@ -5,7 +5,7 @@ namespace SecondChanse.Tools
         public enum LocalizationMenuTextKeys
         {
             HelloStory,
-            LicenseText,            
+            LicenseText,
             ChooseStory,
             Rules,
             Settings,
@@ -13,6 +13,7 @@ namespace SecondChanse.Tools
         }
         public enum LocalizationStoryMapTextKeys
         {
+            CherryBlossomFestivalStoryInfo,
             Back
         }
         public enum LocalizationRulesTextKeys
@@ -40,7 +41,8 @@ namespace SecondChanse.Tools
             HintQuestion,
             NegativeResult,
             PositiveResult,
-            NeitralResult
+            NeitralResult,
+            Menu
         }
         public enum LocalizationCloseCardTextKeys
         {

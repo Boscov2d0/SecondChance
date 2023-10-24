@@ -27,5 +27,6 @@ namespace SecondChanse.Game.Data
         
         [HideInInspector] public AnswerType CurrentAnswerType;
         [HideInInspector] public EndingState EndingState;
+        [HideInInspector] public List<int> OpenCardsIndex = new List<int>();
     }
 }

@@ -36,6 +36,9 @@ namespace SecondChanse.Game.UI.Controller
         {
              if (_rotate)
                 OpenCardAnimation();
+
+            if (Input.GetMouseButton(0))
+                StopOpenCardAnimation();
         }
         private void OpenCard()
         {
@@ -52,10 +55,20 @@ namespace SecondChanse.Game.UI.Controller
             _closeCardView.gameObject.transform.localScale += new Vector3(0.007f, 0.007f, 0.0f);
 
             if (_closeCardView.gameObject.transform.localScale.x >= 1.5f)
-            {
-                _rotate = false;
-                Destroy?.Invoke();
-            }
+                OpenedCard();
+        }
+        private void StopOpenCardAnimation() 
+        {
+            if (!_rotate)
+                return;
+
+            OpenedCard();
+        }
+        private void OpenedCard() 
+        {
+            _rotate = false;
+            Destroy?.Invoke();
+            _gameManager.OpenCardsIndex.Add(_cardIndex);
         }
         private void SimpleButtonSound() => _audioManager.SimpleClickAudioSource.Play();
     }

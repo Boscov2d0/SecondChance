@@ -24,6 +24,7 @@ namespace SecondChanse.Game.Core
             _uiManager = uiManager;
             _cardsSpriteManager = cardsSpriteManager;
 
+            _gameManager.OpenCardsIndex.Clear();
             _gameManager.CurrentCountOfCloseCard.Value = _gameManager.CountOfCloseCard;
             _gameManager.CurrentCountOfHint.Value = _gameManager.CountOfHint;
 
@@ -41,13 +42,13 @@ namespace SecondChanse.Game.Core
 
             base.OnDispose();
         }
-        public void FixedExecute() 
+        public void FixedExecute()
         {
             _playBoardController?.FixedExecute();
         }
-        private void OnStateChange() 
+        private void OnStateChange()
         {
-            switch (_gameManager.GameState.Value) 
+            switch (_gameManager.GameState.Value)
             {
                 case GameState.PlayAgain:
                     PlayAgain();
@@ -57,9 +58,9 @@ namespace SecondChanse.Game.Core
                     break;
             }
         }
-        private void EndGame() 
+        private void EndGame()
         {
-            if (_gameManager.CurrentCountOfCloseCard.Value > 0)
+            if (_gameManager.CurrentCountOfCloseCard.Value > 0 && _gameManager.GameState.Value != GameState.PlayBoard)
                 return;
 
             if (_gameManager.CountOfPoints.Value < 0)
@@ -81,6 +82,6 @@ namespace SecondChanse.Game.Core
         {
             SceneManager.LoadScene(Keys.SceneNameKeys.Game.ToString());
         }
-        private void LoadMenu() =>  SceneManager.LoadScene(Keys.SceneNameKeys.Menu.ToString());
+        private void LoadMenu() => SceneManager.LoadScene(Keys.SceneNameKeys.Menu.ToString());
     }
 }

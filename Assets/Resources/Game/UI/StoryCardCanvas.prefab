@@ -396,8 +396,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a8ad8f1cdfc3c34cb5e579b159ba50c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _localizationManager: {fileID: 11400000, guid: 943972f3b4155f344818d6561b454310,
-    type: 2}
+  _localizationManager: {fileID: 11400000, guid: 943972f3b4155f344818d6561b454310, type: 2}
   _backgroundImage: {fileID: 8326836662168160231}
   _closeButtonImage: {fileID: 5843788273563601165}
   _storyText: {fileID: 8326836662093478206}
@@ -632,6 +631,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _playerProfile: {fileID: 11400000, guid: ceefa2ad543310d49b6538191a1ae281, type: 2}
   _storysManagers: {fileID: 11400000, guid: 42680f4a8c7f8ea43b139c5d0f71adb9, type: 2}
+  _image: {fileID: 8326836661742702434}
   Text: {fileID: 8326836663408038953}
   Button: {fileID: 8326836661742702433}
   AnswerType: 1
@@ -1810,6 +1810,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _playerProfile: {fileID: 11400000, guid: ceefa2ad543310d49b6538191a1ae281, type: 2}
   _storysManagers: {fileID: 11400000, guid: 42680f4a8c7f8ea43b139c5d0f71adb9, type: 2}
+  _image: {fileID: 8326836663367838941}
   Text: {fileID: 8326836662727833638}
   Button: {fileID: 8326836663367838940}
   AnswerType: 3
@@ -2030,6 +2031,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _playerProfile: {fileID: 11400000, guid: ceefa2ad543310d49b6538191a1ae281, type: 2}
   _storysManagers: {fileID: 11400000, guid: 42680f4a8c7f8ea43b139c5d0f71adb9, type: 2}
+  _image: {fileID: 8326836663542521615}
   Text: {fileID: 8326836663569844968}
   Button: {fileID: 8326836663542521614}
   AnswerType: 2
